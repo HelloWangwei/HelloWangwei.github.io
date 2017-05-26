@@ -1168,3 +1168,23 @@ h4.timeline-title {
     color: #777;
     line-height: 1.9em;
 }
+
+.github{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background: url(../images/github000.png);
+    vertical-align: bottom;
+}
+.wthree_tab_content_pos1 ul li a.github {
+    background: url(../images/githubfff.png) no-repeat #2d3e50;
+    display: block;
+}
+.githubxs{
+    display:inline-block;
+    width: 14px;
+    height: 14px;
+    background: url(../images/githubxs.png);
+    cursor:pointer;
+    text-decoration: none;
+}
